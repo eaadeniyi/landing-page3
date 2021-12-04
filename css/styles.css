@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: Montserrat, sans-serif;
+}
+
+#products-image img{
+  width: 100%;
+  height: auto;
+}
+
+#products-image {
+  padding: 5%;
+}
+
+.watch-image img {
+  margin-bottom: 5%;
+}
+#learn-more a{
+  color:rgb(214, 98, 32);
+  text-decoration: none;
+}
+ #learn-more :hover{
+   border-bottom: 2px solid rgb(214, 98, 32);
+ }
+footer{
+  background-color: grey;
+  padding: 10%;
+  color:white;
+}
+footer a{
+  color: #80ff00;
+}
